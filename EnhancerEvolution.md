@@ -18,7 +18,7 @@ and 22,500 H3K27ac-enriched regions (representing active enhancers)
  - Our data reveal that rapid enhancer evolution, often involving exaptation of ancestral DNA, is active and widespread across all the
 mammalian clades in our study
  
- ### Quantifying the Divergence Rates of Enhancers, Promoters, and TF Binding in a Cross-Section of Mammals
+### Quantifying the Divergence Rates of Enhancers, Promoters, and TF Binding in a Cross-Section of Mammals
  - We first identified, by pairwise analysis of all 20 species, whether regions called as enhancers and promoters were pre-
 sent in the same location between two mammalian genomes
  - Inter-species conservation of promoters and enhancers could be plausibly described as a function of time-of-divergence by
