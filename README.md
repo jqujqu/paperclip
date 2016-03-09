@@ -23,6 +23,14 @@ lists of papers on different topics
 * [The interplay between DNA methylation and sequence divergence in recent human evolution](http://nar.oxfordjournals.org/content/43/17/8204) WGBS data; whole blood; human, chimp, gorilla, orangutan; We identified 8,952,000 CpG positions shared among the four species in autosomal chromosomes, this data set was used for further analysis. (1) inferred TFBS in human-specific DMRs, using the CENTIPEDE algorithm; observed a significant increase in the frequency of human-specific substitutions in predicted TFBS compared with TFBS in the background set (2)the acquisition of DNA hypermethylation in the human lineage is frequently coupled with a rapid evolution at nucleotide level in the neighborhood of these CpG sites
 * [Phyloepigenomic comparison of great apes reveals a correlation between somatic and germline methylation states (Martin2011)](http://genome.cshlp.org/content/21/12/2049.long) digestion with a methylation-sensitive enzyme; Neutrophils; human, chimp, orangutan;  The methylomes show a high degree of conservation; methylation states of ~10% of CpG island-like regions differ significantly between human and chimp; The differences are not associated with changes in CG content; The differences recapitulate the known phylogenetic relationship of the three species;  CG decay indicates that somatic methylation states are highly related to germline states.
 
+## Sperm epigenome and development
+* [Repressive and active histone methylation mark distinct promoters in human and mouse spermatozoa (Brykczynska 2010)](http://www.nature.com/nsmb/journal/v17/n6/full/nsmb.1821.html) 
+ - Trithorax-mediated H3K4me2 and Polycomb-mediated H3K27me3 showed methylation-specific distributions at regulatory regions in human spermatozoa 
+ - H3K4me2 marks genes relevant in spermatogenesis and cellular homeostasis
+ - H3K27me3 marks developmental regulators in sperm
+ - both histone modifications were largely mutually exclusive with DNA methylation 
+
+
 ## Population Epigenetics
 * [Population epigenetics. (Richards. 2008)](http://www.ncbi.nlm.nih.gov/pubmed/18337082) A review. 
 
