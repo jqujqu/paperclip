@@ -8,6 +8,11 @@ lists of papers on different topics
 * [X-inactivation, imprinting, and long noncoding RNAs in health and disease (Lee and Bartolomei, 2013)](http://www.cell.com/abstract/S0092-8674%2813%2900205-5)
  
 
+## DNA methylation and its regulatory association
+* [The accessible chromatin landscape of the human genome (Thurman2012)](http://www.nature.com/nature/journal/v489/n7414/full/nature11232.html) We focused on 243,037 CpGs falling within DHSs in 19 cell types for which both data types were available from the same sample. 
+  - We observed **two broad classes** of sites: (1) those with a strong inverse correlation across cell types between DNA methylation and chromatin accessibility, and (2) those with variable chromatin accessibility but constitutive hypomethylation. 
+  - methylation patterning paralleling cell-selective chromatin accessibility results from passive deposition after the vacation of transcription factors from regulatory DNA
+
 ## Epigenetics and Evolution
 
 #### General
