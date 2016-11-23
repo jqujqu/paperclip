@@ -37,6 +37,19 @@ lists of papers on different topics
  - H3K4me2 marks genes relevant in spermatogenesis and cellular homeostasis
  - H3K27me3 marks developmental regulators in sperm
  - both histone modifications were largely mutually exclusive with DNA methylation 
+* [Mouse models of male infertility (Cooke 2002)](http://www.nature.com/nrg/journal/v3/n10/full/nrg911.html)
+ - Spermatogenesis: development of mature spermatozoa from diploid SPERMATOGONIAL cells — takes ~75 days in man and 35 days in mice 
+ - During fetal life
+   - 'primordial' germ cell population in the fetal extra-embryonic membranes (at 7 d.p.c. in mouse).
+   - Thereafter, they migrate into the gonadal area where, in males, they become associated with differentiating Sertoli cells and form structures known as testis cords (in the mouse, this happens by 12.5 d.p.c.)
+ - [Genes implicated in germ-cell meiosis by mouse knockout studies](http://www.nature.com/nrg/journal/v3/n10/fig_tab/nrg911_T3.html)
+ - Spermiogenesis: 
+  - genes highly/dynamically expressed in spermatid, e.g. Crem, Tlf, Ube2a/b (DNA repair)
+  - formation of the ACROSOME
+  - somatic histones are replaced sequentially by transition proteins (Tnp1 and Tnp2) and, finally, by highly basic protamines
+
+
+
 
 
 ## Population Epigenetics
