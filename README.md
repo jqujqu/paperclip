@@ -17,6 +17,9 @@ lists of papers on different topics
 
 #### General
 * [Molecular basis of base substitution hotspots in Escherichia coli (Coulondre, 1978)](http://europepmc.org/abstract/MED/355893): spontaneous deamination of 5-methylcytosine to thymine 
+* [The rate of hydrolytic deamination of 5-methylcytosine in double-stranded DNA (Shen, 1994)](https://academic.oup.com/nar/article/22/6/972/1032988/The-rate-of-hydrolytic-deamination-of-5) The rate constants for spontaneous hydrolytic deamination of 5-methylcytosine and cytosine in double-stranded DNA at 37°C were 5.8e−13/s and 2.6e−13/s, respectively.
+* [Evolutionary changes in CpG and methylation levels in the genome of vertebrates (Jabbari, 1997)](http://www.sciencedirect.com/science/article/pii/S0378111997004757) The 5mC and CpG observed/expected values show no overlap between the two groups of vertebrates and suggest the existence of two equilibria. (higher in fishes and amphibians than in mammals and birds -- body temperature; a side point: fishes and amphibians have higher content of repetitive DNA)
+* [DNA methylation and body temperature in fishes (Varriale 2006)](http://www.sciencedirect.com/science/article/pii/S037811190600518X) an inverse relationship between DNA methylation and body temperature. (lower temperature & higher %5mC, but didn't examine level of CpG decay)
 * [The evolution of invertebrate gene body methylation (Sarda, 2012)](http://mbe.oxfordjournals.org/content/29/8/1907.short) analyzed methylation levels of orthologs from four distantly related invertebrate species. 
 * [Gene body methylation is conserved between plant orthologs and is of evolutionary consequence (Takuno and Gaut, 2013)](http://www.pnas.org/content/110/5/1797.short)
 
