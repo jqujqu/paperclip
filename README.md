@@ -6,6 +6,9 @@ lists of papers on different topics
 ## Reviews: X chromosome inactivation
 * [X inactivation and the complexities of silencing a sex chromosome (Chow and Heard, 2009)](http://www.sciencedirect.com/science/article/pii/S0955067409000982)  includes an examination of the sequence of epigenetic events accompanying the silencing of the X chromosome during differentiation. 
 * [X-inactivation, imprinting, and long noncoding RNAs in health and disease (Lee and Bartolomei, 2013)](http://www.cell.com/abstract/S0092-8674%2813%2900205-5)
+
+## Review: Sperm chromatin
+* [Unique Chromatin Remodeling and Transcriptional Regulation in Spermatogenesis (Sassone-Corsi 2002)](http://science.sciencemag.org/content/296/5576/2176.full)
  
 ## DNA methylation and DNA sequence
 * [Protection of CpG islands from DNA methylation is DNA-encoded and evolutionarily conserved (Long 2016)](https://academic.oup.com/nar/article/44/14/6693/2468145/Protection-of-CpG-islands-from-DNA-methylation-is#87018343)
