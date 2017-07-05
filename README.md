@@ -7,7 +7,13 @@ lists of papers on different topics
 * [X inactivation and the complexities of silencing a sex chromosome (Chow and Heard, 2009)](http://www.sciencedirect.com/science/article/pii/S0955067409000982)  includes an examination of the sequence of epigenetic events accompanying the silencing of the X chromosome during differentiation. 
 * [X-inactivation, imprinting, and long noncoding RNAs in health and disease (Lee and Bartolomei, 2013)](http://www.cell.com/abstract/S0092-8674%2813%2900205-5)
  
-
+## DNA methylation and DNA sequence
+* [Protection of CpG islands from DNA methylation is DNA-encoded and evolutionarily conserved (Long 2016)](https://academic.oup.com/nar/article/44/14/6693/2468145/Protection-of-CpG-islands-from-DNA-methylation-is#87018343)
+  - transchromosomic mouse animal model 
+  - CpG-rich promoter-associated CGIs are almost invariantly hypomethylated. 
+  - distal elements are prone to alternative DNA methylation states depending on the host species; this relies on both DNA sequence and transcription factor binding.
+  - these observations hold true when mouse chromosomal fragments are transposed into zebrafish, demonstrating for the first time that these general mechanisms are functionally conserved across divergent vertebrate species
+  
 ## DNA methylation and its regulatory association
 * [The accessible chromatin landscape of the human genome (Thurman2012)](http://www.nature.com/nature/journal/v489/n7414/full/nature11232.html) We focused on 243,037 CpGs falling within DHSs in 19 cell types for which both data types were available from the same sample. 
   - We observed **two broad classes** of sites: (1) those with a strong inverse correlation across cell types between DNA methylation and chromatin accessibility, and (2) those with variable chromatin accessibility but constitutive hypomethylation. 
