@@ -9,6 +9,61 @@ lists of papers on different topics
 
 ## Review: Sperm chromatin
 * [Unique Chromatin Remodeling and Transcriptional Regulation in Spermatogenesis (Sassone-Corsi 2002)](http://science.sciencemag.org/content/296/5576/2176.full)
+
+## Active demethylation with TET, AID, TDG and BER proteins
+### Review: [DNA Demethylation Pathways: Recent Insights (Li 2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4222334/)
+* Glycosylase-dependent DNA demethylation was first proposed in animals.
+  - [Mechanisms of DNA Demethylation in Chicken Embryos PURIFICATION AND PROPERTIES OF A 5-METHYLCYTOSINE-DNA GLYCOSYLASE (Jost 1995)](http://www.jbc.org/content/270/17/9734.short)
+  - [5-methylcytosine-DNA glycosylase activity is present in a cloned G/T mismatch DNA glycosylase associated with the chicken embryo DNA demethylation complex (Zhu 2000)](http://www.pnas.org/content/97/10/5135.long)
+    - The 5-methylcytosine glycosylase activity was initially detected in chicken embryo extracts, which contains TDG
+    - the glycosylase activity of TDG is much lower against 5-methylcytosine than against mismatched thymine
+  - [5-Methylcytosine DNA glycosylase participates in the genome-wide loss of DNA methylation occurring during mouse myoblast differentiation (Jost 2001)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC60186/)
+* [LCX, Leukemia-associated Protein with a CXXC Domain, Is Fused to MLL in Acute Myeloid Leukemia with Trilineage Dysplasia Having t(10;11)(q22;q23) (Ono 2002)](http://cancerres.aacrjournals.org/content/62/14/4075.short)
+  -  **TET was identified** the TET1 gene, located on chromosome 10, can translocate with the H3K4 histone methyltransferase MLL gene on chromosome 11
+* [DNA demethylation in zebrafish involves the coupling of a deaminase, a glycosylase, and gadd45. (Rai 2008)](http://www.sciencedirect.com/science/article/pii/S0092867408015171)
+  - Using zebrafish embryos we provide evidence for 5-methylcytosine (5-meC) removal in vivo via the coupling of a 5-meC deaminase (AID, which converts 5-meC to thymine) and a G:T mismatch-specific thymine glycosylase (Mbd4).
+  - Our results provide **evidence for a coupled mechanism of 5-meC demethylation, whereby AID deaminates 5-meC, followed by thymine base excision by Mbd4, promoted by Gadd45**.
+* [Reprogramming towards pluripotency requires AID-dependent DNA demethylation (Bhutani 2009)](https://www.nature.com/nature/journal/v463/n7284/full/nature08752.html)
+  - mammalian **AID is required for active DNA demethylation** and initiation of nuclear reprogramming towards pluripotency in human somatic cells
+* [The Nuclear DNA Base 5-Hydroxymethylcytosine Is Present in Purkinje Neurons and the Brain (Kriaucionis & Heintz 2009)](http://science.sciencemag.org/content/324/5929/929.long)
+  - **detected the presence of 5-hydroxymethyl-2′-deoxycytidine (hmdC)** in neuronal cells.
+  - hmdC constitutes 0.6% of total nucleotides in Purkinje cells, 0.2% in granule cells, and is not present in cancer cell lines.
+* [Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1. (Tahiliani 2009)](http://science.sciencemag.org/content/324/5929/930)
+  - In a computational search for enzymes that could modify 5-methylcytosine (5mC), we identified TET proteins as mammalian homologs of the trypanosome proteins JBP1 and JBP2, which have been proposed to oxidize the 5-methyl group of thymine.
+  - **TET1** is a 2-oxoglutarate (2OG)- and Fe(II)-dependent enzyme that **catalyzes conversion of 5mC to 5-hydroxymethylcytosine (hmC)** in cultured cells and in vitro
+* [Hydroxylation of 5-Methylcytosine by TET1 Promotes Active DNA Demethylation in the Adult Brain (Guo 2011)](http://www.cell.com/abstract/S0092-8674(11)00299-6)
+  - 5mC hydroxylation promotes active DNA demethylation irrespective of CpG context
+  - **Deamination and base excision repair are involved in 5hmC demethylation**
+  - **5hmC demethylation is highly processive, transcription dependent, and strand biased**
+  - Tet1 and Apobec1 regulate activity-induced DNA demethylation in the mouse brain
+* [ Tet proteins can convert 5-methylcytosine to 5-formylcytosine and 5-carboxylcytosine. (Ito 2011)](http://science.sciencemag.org/content/333/6047/1300.long)
+  - the **Tet proteins can generate 5-formylcytosine (5fC) and 5-carboxylcytosine (5caC) from 5mC** in an enzymatic activity–dependent manner.
+* [Tet-Mediated Formation of 5-Carboxylcytosine and Its Excision by TDG in Mammalian DNA (He 2011)](http://science.sciencemag.org/content/333/6047/1303)
+  - we demonstrate that 5mC and 5hmC in DNA are oxidized to 5-carboxylcytosine (5caC) by Tet dioxygenases in vitro and in cultured cells.
+  - **5caC is specifically recognized and excised by thymine-DNA glycosylase (TDG)**.
+  - Depletion of TDG in mouse embyronic stem cells leads to accumulation of 5caC to a readily detectable level.
+  - These data suggest that oxidation of 5mC by Tet proteins followed by TDG-mediated base excision of 5caC constitutes a pathway for active DNA demethylation.
+* [ Thymine DNA glycosylase is essential for active DNA demethylation by linked deamination-base excision repair. (Cortellino 2011)](http://www.sciencedirect.com/science/article/pii/S0092867411006623)
+  - Inactivation of TDG leads to embryonic lethality and altered DNA methylation patterns
+  - TDG keeps CpG islands unmethylated and actively demethylates promoters and enhancers
+  - TDG interacts with AID and GADD45a and regulates the levels of AID
+  - TDG removes 5-hydromethyluracil originated by deamination of 5-hydroxymethylcytosine
+* TAB-seq
+  - [Tet-assisted bisulfite sequencing of 5-hydroxymethylcytosine. (Yu 2012)](https://www.nature.com/nprot/journal/v7/n12/abs/nprot.2012.137.html)
+  - [Base-resolution analysis of 5-hydroxymethylcytosine in the mammalian genome. (Yu 2012)](http://www.sciencedirect.com/science/article/pii/S009286741200534X)
+* [Mechanism and stem-cell activity of 5-carboxycytosine decarboxylation determined by isotope tracing (Schiesser 2012)](http://onlinelibrary.wiley.com/doi/10.1002/anie.201202583/full)
+  - this mechanism allows exchange of mC by dC without formation of intermediate strand breaks
+* [Genome-wide analysis reveals TET- and TDG-dependent 5-methylcytosine oxidation dynamics. (Shen 2013)](http://www.sciencedirect.com/science/article/pii/S0092867413004017)
+  - Modification-specific antibodies reveals TET/TDG-mediated 5mC oxidation dynamics
+  - A resource of genome-wide distribution for all oxidized forms of 5mC in mouse ESCs
+  - Tdg depletion induces 5fC and 5caC accumulation at bivalent and silent promoters
+  - TDG activity is preferentially recruited to distal cis-regulatory elements
+* [Genome-wide Profiling of 5-Formylcytosine Reveals Its Roles in Epigenetic Priming (Song 2013)](http://www.sciencedirect.com/science/article/pii/S0092867413004005)
+  - Two methods detect 5fC, an oxidized form of 5-methylcytosine, in the genome of mESCs
+  - Genome-wide profiling reveals TDG-dependent regulation of 5fC, not 5hmC, in mESCs
+  - 5fC is preferentially enriched at poised enhancers and correlates with p300 binding
+  - Detection methods rely on selective chemical labeling and base resolution
+
  
 ## DNA methylation and DNA sequence
 * [Protection of CpG islands from DNA methylation is DNA-encoded and evolutionarily conserved (Long 2016)](https://academic.oup.com/nar/article/44/14/6693/2468145/Protection-of-CpG-islands-from-DNA-methylation-is#87018343)
